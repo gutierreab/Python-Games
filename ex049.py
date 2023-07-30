@@ -1,3 +1,5 @@
+####JoKenPo####
+
 import pygame
 from pygame.locals import *
 from random import randint
@@ -294,7 +296,8 @@ def tela_inicio():
 
         pygame.display.update()
 
-
 tela_inicio()
 pygame.quit()
 quit()
+
+# Criado por Amanda Borges Gutierre, em 04 de Outubro de 2022.
